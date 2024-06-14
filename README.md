@@ -1,2 +1,4 @@
-# Applied-Data-Science-Capstone
-This is a test file in the Captstone project...
+# Applied-Data-Science-Capstone Coursera Course
+- Lab results as Jupyter Notebooks
+- Python code for Plotly Dash lab
+- Final presentation in powerpoint and PDF-format
